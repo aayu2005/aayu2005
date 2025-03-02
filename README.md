@@ -1,4 +1,4 @@
-- 👋 Hi, I’m stalker 👀
+- 👋 Hi, I’m Aayush 👀
 - 👀 I’m interested in coding, electronics, robotics. 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
